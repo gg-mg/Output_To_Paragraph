@@ -2,7 +2,7 @@
 
 Important notes
 
-This is demo for output to a paragraph on index.html (<p id="demo"></p>)
+This is demo for output to a paragraph on index.html (p id=demo)
 
 Note that car myFather works when betwween the constructor and doucument.ready 
 and
